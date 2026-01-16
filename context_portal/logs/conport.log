@@ -1,0 +1,15 @@
+2025-08-18 20:12:10,401 - INFO - context_portal_mcp.main - File logging configured to: /Users/antonioreid/CODE/00_PROJECTS/00_APPS/03_AI_GATEWAY/context_portal/./logs/conport.log
+2025-08-18 20:12:10,402 - INFO - context_portal_mcp.main - Parsed CLI args: Namespace(host='127.0.0.1', port=8000, workspace_id='/Users/antonioreid/CODE/00_PROJECTS/00_APPS/03_AI_GATEWAY', mode='stdio', log_file='./logs/conport.log', log_level='INFO')
+2025-08-18 20:12:10,402 - INFO - context_portal_mcp.main - Starting ConPort in STDIO mode using FastMCP for initial CLI arg workspace_id: /Users/antonioreid/CODE/00_PROJECTS/00_APPS/03_AI_GATEWAY
+2025-08-18 20:12:10,402 - INFO - context_portal_mcp.main - Pre-warming database connection for workspace: /Users/antonioreid/CODE/00_PROJECTS/00_APPS/03_AI_GATEWAY
+2025-08-18 20:12:10,402 - INFO - context_portal_mcp.db.database - Alembic.ini not found. Creating at /Users/antonioreid/CODE/00_PROJECTS/00_APPS/03_AI_GATEWAY/context_portal/alembic.ini
+2025-08-18 20:12:10,403 - INFO - context_portal_mcp.db.database - Alembic env.py not found. Creating at /Users/antonioreid/CODE/00_PROJECTS/00_APPS/03_AI_GATEWAY/context_portal/alembic/env.py
+2025-08-18 20:12:10,403 - INFO - context_portal_mcp.db.database - Initial schema not found. Creating at /Users/antonioreid/CODE/00_PROJECTS/00_APPS/03_AI_GATEWAY/context_portal/alembic/versions/2025_06_17_initial_schema.py
+2025-08-18 20:12:10,404 - INFO - context_portal_mcp.db.database - Alembic: Script directory /Users/antonioreid/CODE/00_PROJECTS/00_APPS/03_AI_GATEWAY/context_portal/alembic confirmed to exist by Python.
+2025-08-18 20:12:10,404 - INFO - context_portal_mcp.db.database - Running Alembic migrations for database: /Users/antonioreid/CODE/00_PROJECTS/00_APPS/03_AI_GATEWAY/context_portal/context.db
+2025-08-18 22:09:58,651 - INFO - context_portal_mcp.main - File logging configured to: /Users/antonioreid/CODE/00_PROJECTS/00_APPS/03_AI_GATEWAY/context_portal/./logs/conport.log
+2025-08-18 22:09:58,651 - INFO - context_portal_mcp.main - Parsed CLI args: Namespace(host='127.0.0.1', port=8000, workspace_id='/Users/antonioreid/CODE/00_PROJECTS/00_APPS/03_AI_GATEWAY', mode='stdio', log_file='./logs/conport.log', log_level='INFO')
+2025-08-18 22:09:58,651 - INFO - context_portal_mcp.main - Starting ConPort in STDIO mode using FastMCP for initial CLI arg workspace_id: /Users/antonioreid/CODE/00_PROJECTS/00_APPS/03_AI_GATEWAY
+2025-08-18 22:09:58,651 - INFO - context_portal_mcp.main - Pre-warming database connection for workspace: /Users/antonioreid/CODE/00_PROJECTS/00_APPS/03_AI_GATEWAY
+2025-08-18 22:09:58,653 - INFO - context_portal_mcp.db.database - Alembic: Script directory /Users/antonioreid/CODE/00_PROJECTS/00_APPS/03_AI_GATEWAY/context_portal/alembic confirmed to exist by Python.
+2025-08-18 22:09:58,653 - INFO - context_portal_mcp.db.database - Running Alembic migrations for database: /Users/antonioreid/CODE/00_PROJECTS/00_APPS/03_AI_GATEWAY/context_portal/context.db
